@@ -9,7 +9,6 @@ This project implements a **Logistic Regression** model to predict the presence 
 - **Source**: [Kaggle – Heart Disease Dataset by johnsmith88](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 - **File**: `heart.csv`
 - **Initial Records**: 303  
-- **After Deduplication**: 302 (1 duplicate removed)
 - **Target Distribution**:
   - `1` (Heart Disease): 165 patients  
   - `0` (No Disease): 137 patients  
